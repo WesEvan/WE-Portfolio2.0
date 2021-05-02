@@ -1,0 +1,7 @@
+#navigation {
+    background-color: lightgrey;
+}
+
+.embed-responsive .card-img-top {
+    object-fit: cover;
+}
